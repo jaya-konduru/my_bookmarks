@@ -8,7 +8,13 @@
    {
       "name":"Online IDE",
       "url":"https://ideone.com/",
-      "cat":"tools",
+      "cat":"ide",
+      "tags":"online editor,tools,code editor,ide"
+   }
+   {
+      "name":"Online IDE - Eval",
+      "url":"https://eval.in/",
+      "cat":"ide",
       "tags":"online editor,tools,code editor,ide"
    }
 ]
